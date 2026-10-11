@@ -20,3 +20,7 @@ This is a front-end demo, not a complete store. It has no inventory database, ch
 
 ## Product research note
 The selection is a test shortlist, not a guarantee of current sales or profitability. Indicative cost and price figures are assumptions for planning. Confirm supplier quotations, product quality, delivery, VAT, payment fees, returns, advertising cost and applicable UAE rules before buying inventory.
+
+
+## Device catalogue
+The homepage includes a searchable/filterable catalogue of representative Samsung, OPPO, REDMI and HUAWEI devices and accessories with UAE price snapshots. These are not automatically synced live prices; recheck the official links in `product-margin-notes.txt` before confirming prices.

@@ -1,0 +1,48 @@
+DUBAI DEALS AE — DEVICE CATALOGUE PRICE NOTES
+Price snapshot prepared 11 October 2026. Prices are from public UAE brand/retailer pages and may change. This is not an automatic live Google feed; recheck the linked source before confirming customer orders.
+
+SAMSUNG UAE
+- Galaxy S26: AED 4,799 (Samsung UAE listing)
+- Galaxy S25 Ultra: AED 3,849 (Samsung UAE listing)
+- Galaxy Tab A11 Wi-Fi: AED 969 (Samsung UAE listing)
+- Galaxy Buds4 Pro: AED 949 (Samsung UAE listing)
+Source: https://www.samsung.com/ae/
+
+OPPO UAE
+- A7 Pro 5G 6GB+128GB: AED 1,449
+- A7 Pro 5G 6GB+256GB: AED 1,649
+- Reno16F 5G 8GB+256GB: AED 1,799
+- Reno16F 5G 12GB+256GB: AED 2,099
+- Reno16 5G: AED 2,499
+- Reno16 Pro 5G: AED 3,299
+- Enco Clip2: AED 649
+Sources: https://www.oppo.com/ae/newsroom/press/introducing-oppo-a7-pro-in-gcc/ and https://www.oppo.com/ae/newsroom/stories/oppo-reno16-series-dubai-launch-matcha/
+
+REDMI / XIAOMI UAE
+- REDMI Note 15 Pro 5G 8GB+256GB: AED 969 (campaign price)
+- REDMI Note 15 Pro 5G 12GB+256GB: AED 1,199 (campaign price)
+- REDMI Note 15 Pro+ 5G 12GB+512GB: AED 1,499 (campaign price)
+- REDMI Note 15 8GB+256GB: AED 729 (campaign price)
+Source: https://www.mi.com/ae-en/support/terms/Eid-al-Adha-Event-2026/
+Product family: https://www.mi.com/ae-en/mobile/
+
+HUAWEI UAE
+- nova Y73: starts at AED 549
+- nova 14: starts at AED 999
+- nova 14 Pro: starts at AED 1,199
+- nova 15 Max: starts at AED 1,299
+- Mate 80 Pro: starts at AED 3,099
+- Pura 90s Pro Max: starts at AED 3,999
+- FreeBuds SE 4 ANC: AED 189
+- FreeBuds 7i: AED 299
+Source: https://consumer.huawei.com/ae-en/phones/ and https://consumer.huawei.com/ae-en/offer/
+
+ACCESSORY RETAILER SNAPSHOT
+- OPPO 65W SUPERVOOC charger: AED 85.74 (retailer listing, compatibility/plug type must be checked)
+Source: https://www.noon.com/
+
+IMPORTANT
+- The catalog contains representative models and variants, not every device ever made by these brands.
+- These prices are sourced snapshots, not automatically synced live prices. Check price, variant, warranty, stock and regional version before selling.
+- Selling price should be set after adding supplier cost, VAT, delivery, payment fees, ads, returns and margin.
+- The website is static: product enquiries do not create an order or accept payment until a backend/payment flow is added.
